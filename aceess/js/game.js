@@ -18,7 +18,7 @@ canvas.height = height;
 
 // Define player object
 
-
+var playerDefauld = Image('');
 
 var player = {
     x: width / 2,
